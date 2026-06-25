@@ -10,6 +10,7 @@ make            # builds ./demo
 make static     # builds ./demo_static (see "about that <1MB" below)
 ./demo          # q or Esc to quit
 ```
+![nanotui hardware monitor](hardware-monitor.png)
 
 ## What's in here
 
